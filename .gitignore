@@ -169,4 +169,5 @@ dmypy.json
 cython_debug/
 
 #file python
-prsc.py
+prsc.py/
+
